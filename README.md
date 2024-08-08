@@ -17,5 +17,6 @@ Everyone know we can't use chatGPT for hacking. ( for create payloads or malware
 - After chatGPT response to your hex prompt. I created some payloads using chatGPT. You can try it. for Try it [Click here](https://github.com/0DayS3c/reverseshells).
 
   <p> Credits goes respectively Zadi in zSecurity</p>
-  - [zSecurity Main website](https://zsecurity.org)
-  - [zSecurity YouTube](https://www.youtube.com/@zSecurity)
+  
+- <a href="https://zsecurity.org">zSecurity Main website</a>
+- <a href="https://www.youtube.com/@zSecurity">zSecurity YouTube</a>
