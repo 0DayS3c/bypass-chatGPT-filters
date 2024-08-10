@@ -20,3 +20,10 @@ Everyone know we can't use chatGPT for hacking. ( for create payloads or malware
   
 - <a href="https://zsecurity.org">zSecurity Main website</a>
 - <a href="https://www.youtube.com/@zSecurity">zSecurity YouTube</a>
+
+<h4> Note: This is limited option. For create more advanced scripts / Programs, You need creativity and More bypassing techniques. I have more bypass techniques and  I'll write about it later. </h4>
+<h6> Follow and stay touch with me. ThankYou! </h6>
+<p> <b> Follow me on Social medias :</b></p>
+<p> <a href="https://www.linkedin.com/in/piyushaakash/"> LinkedIn </a></p>
+<p> <a href="https://www.instagram.com/0days3c"> Instagram </a></p>
+<p> <a href="https://twitter.com/0DayS3c"> X (Twitter) </a></p>
